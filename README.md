@@ -21,8 +21,16 @@ The goal of this project is to analyze **Shopify sales data** to:
 ## 🛠 Tools & Technologies
 - **Power BI** – Dashboard development & visualization  
 - **Excel/CSV** – Data cleaning & preparation  
-- **Shopify Data** – Source of transactions and KPIs  
+- **Shopify Data** – Source of transactions and KPIs
 
+## Tech Stack
+The dashboard was built using the following tools and technologies:<br>
+•	📊 Power BI Desktop – Main data visualization platform used for report creation.<br>
+•	📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.<br>
+•	🧠 DAX (Data Analysis Expressions) – Used for calculated measures, dynamic visuals, and conditional logic.<br>
+•	📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.<br>
+•	📁 File Format – .pbix for development and .png for dashboard previews.
+   
 ## 🚀 Key Insights
 - Identified top category contributing highest revenue.  
 - Improved understanding of **customer retention and purchase frequency**.  
