@@ -41,7 +41,7 @@ The dashboard was built using the following tools and technologies:<br>
 - `README.md` → Project documentation  
 
 ## 📸 Dashboard Preview
-(https://github.com/sohampirag/Shopify--Dashboard/blob/main/Dashboard.png)
+![Shopify Dashboard](https://github.com/sohampirag/Shopify--Dashboard/blob/main/Dashboard.png)
 
 
 ## 📌 How This Helps Businesses
